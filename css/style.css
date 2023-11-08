@@ -1,0 +1,16 @@
+body{
+/*background: no-repeat fixed ;  
+        //background-image:  linear-gradient(to bottom right, black, red, yellow);
+       */
+       @media (max-width: 65rem){
+        .site-nav{
+        display: none;
+
+    }
+  }
+        @media (min-width: 65rem){
+        .site-nav2{
+        display: none;
+    }
+  }
+        }
