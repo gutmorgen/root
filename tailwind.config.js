@@ -8,6 +8,7 @@ module.exports = {
     extend: {},
   },
   plugins: [
+    require('@tailwindcss/aspect-ratio'),
     require('@tailwindcss/forms'),
     require('flowbite/plugin')
   ],
